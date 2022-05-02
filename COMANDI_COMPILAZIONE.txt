@@ -1,0 +1,7 @@
+ESEGUIRE TUTTI I COMANDI DALLA DIRECTORY : WORTH_580618
+
+COMPILAZIONE SERVER : javac −cp "./gson/gson−2.6.2.jar" −d ./out −sourcepath ./src ./src/Server.java
+ESECUZIONE SERVER   : java −cp "./gson/gson−2.6.2.jar:./out" Server
+
+COMPILAZIONE CLIENT : javac −cp "./gson/gson−2.6.2.jar" −d ./out −sourcepath ./src ./src/Client.java
+ESECUZIONE CLIENT   : java −cp "./gson/gson−2.6.2.jar:./out" Client
